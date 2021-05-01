@@ -1,0 +1,61 @@
+Main page.html
+<html>
+<head>
+<title>Portfolio</title>
+</head>
+<body>
+<h1>Portfolio</h1>
+<form>
+<fieldset>
+<table>
+<tr>
+<td>Log in:</td>
+<td><input type="text" name="email"></td>
+</tr>
+<tr>
+<td>Password:</td>
+<td><input type="password "
+name="pwd"></td>
+</tr>
+</table>
+</fieldest>
+</form>
+<a href="log in.html"> Log in</a><br><br>
+Sign in <a href="sign in.html">Click
+</a></center>
+</body>
+<\html>
+
+Sign in.html
+<html>
+<head>
+<title>Sign In</title>
+</head>
+<body>
+<h1>Sign In</h1>
+<form>
+<fieldset>
+<table>
+<tr>
+<td>Name:</td>
+<td><input type="text" placeholder="Name"></td>
+</tr>
+<tr>
+<td>Email:</td>
+<td><input type="text" placeholder="Email"></td>
+</tr>
+<tr>
+<td>Password:</td>
+<td><input type="password" placeholder="pwd"></td>
+</tr>
+<tr>
+<td>Phone No. </td>
+<td><input type="text" 
+placeholder="Phone No"></td>
+</tr>
+</table>
+</fieldset>
+</form>
+Log in <a href="Main page.html">Click</a>
+</body>
+</html>
